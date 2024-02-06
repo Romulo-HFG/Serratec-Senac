@@ -12,6 +12,7 @@
 
 */
 
+
 /*const entradaIdade = parseInt(prompt("Digite sua idade"));
 const idade = entradaIdade >= 18 ? "maior de idade" : "menor de idade";
 console.log(idade);
@@ -26,5 +27,5 @@ tabuadaCinco = tabuadaCinco + 1;
 }
 
 */
-
+// 
 
